@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 35: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    male "Sozdati eto vseo bilo legko, programma sama delaet osnovu. Dumaiu, u nas esti vse shansi sdelati chto-to adekvatnoe i zarabotati nemnogo deniak!"
+    ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Mon Jun  5 22:29:51 2023
