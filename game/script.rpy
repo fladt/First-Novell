@@ -35,7 +35,5 @@ label start:
     male "Sozdati eto vseo bilo legko, programma sama delaet osnovu. Dumaiu, u nas esti vse shansi sdelati chto-to adekvatnoe i zarabotati nemnogo deniak!"
 
     # This ends the game.
-
-
-
+    
     return
